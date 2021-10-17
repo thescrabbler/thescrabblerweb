@@ -1,2 +1,2 @@
-# thescrabblerweb
+# .com
 My official website
